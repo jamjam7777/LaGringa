@@ -5,11 +5,11 @@ import '../styles/Home.css';
 
 function Home() {
   return (
-    <div className='home'>
-      <div className='headerContainer' style={{ backgroundImage: `url(${BadBunny})` }}>
+    <div className='home' style={{ backgroundImage: `url(${BadBunny})` }}>
+      <div className='headerContainer'>
         <h1>La Gringa Art</h1>
         <p>let's get artsy fartsy</p>
-        <Link>
+        <Link to='/art'>
         <button> See ART!</button>
         </Link>
       </div>
