@@ -3,19 +3,21 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import Art from './pages/Art';
-import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import About from './pages/About';
+import {BrowserRouter, Route, Routes} from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <Router>
+      <BrowserRouter>
       <Navbar />
       <Routes>
         <Route path="/" exact element={<Home />} />
         <Route path="/art" exact element={<Art />} />
+        <Route path="/about" exact element={<About />} />
       </Routes>
       <Footer />
-      </Router>
+      </BrowserRouter>
     </div>
   );
 }

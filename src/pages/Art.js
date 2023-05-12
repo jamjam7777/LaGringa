@@ -5,7 +5,7 @@ import "../styles/Art.css";
 
 function Art() {
   return (
-    <div className="menu">
+    <div className="art">
       <h1 className="menuTitle">Art for Sale</h1>
       <div className="menuList">
         {ArtList.map((artItem, key) => {
