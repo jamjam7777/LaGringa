@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/lagringa/static/css/main.a45c3839.css",
-    "main.js": "/lagringa/static/js/main.6d294388.js",
-    "static/js/787.865ed617.chunk.js": "/lagringa/static/js/787.865ed617.chunk.js",
-    "static/media/gringalogo.png": "/lagringa/static/media/gringalogo.e8986e525cebf7ce8419.png",
-    "static/media/wolf-moonflowers.jpg": "/lagringa/static/media/wolf-moonflowers.092a6b909449298d91bd.jpg",
-    "static/media/folclorico-bird-c.jpg": "/lagringa/static/media/folclorico-bird-c.8cd4a36516528c4e9235.jpg",
-    "static/media/folclorico-bird-b.jpg": "/lagringa/static/media/folclorico-bird-b.d8e48a1b48eeb474fbd5.jpg",
-    "static/media/Howie-jav.jpg": "/lagringa/static/media/Howie-jav.b1a20187f948d56fb59e.jpg",
-    "static/media/hootie-owl.jpg": "/lagringa/static/media/hootie-owl.c9edd98534a68da3c6d3.jpg",
-    "static/media/billy-llama.jpg": "/lagringa/static/media/billy-llama.7a73bcf717488bc46b1d.jpg",
-    "static/media/wolfie.jpg": "/lagringa/static/media/wolfie.cb1ebb6f54a1ab79348a.jpg",
-    "static/media/arnette-armadillo.jpg": "/lagringa/static/media/arnette-armadillo.b06f6d231cc8dcef060c.jpg",
-    "static/media/bad-bunny.jpg": "/lagringa/static/media/bad-bunny.eb0933ab98f7df1b174a.jpg",
-    "static/media/barry-dropdown.jpg": "/lagringa/static/media/barry-dropdown.3a907418fa75b1bbdc98.jpg",
-    "index.html": "/lagringa/index.html",
-    "main.a45c3839.css.map": "/lagringa/static/css/main.a45c3839.css.map",
-    "main.6d294388.js.map": "/lagringa/static/js/main.6d294388.js.map",
-    "787.865ed617.chunk.js.map": "/lagringa/static/js/787.865ed617.chunk.js.map"
+    "main.css": "/static/css/main.a45c3839.css",
+    "main.js": "/static/js/main.2e41d986.js",
+    "static/js/787.865ed617.chunk.js": "/static/js/787.865ed617.chunk.js",
+    "static/media/gringalogo.png": "/static/media/gringalogo.e8986e525cebf7ce8419.png",
+    "static/media/wolf-moonflowers.jpg": "/static/media/wolf-moonflowers.092a6b909449298d91bd.jpg",
+    "static/media/folclorico-bird-c.jpg": "/static/media/folclorico-bird-c.8cd4a36516528c4e9235.jpg",
+    "static/media/folclorico-bird-b.jpg": "/static/media/folclorico-bird-b.d8e48a1b48eeb474fbd5.jpg",
+    "static/media/Howie-jav.jpg": "/static/media/Howie-jav.b1a20187f948d56fb59e.jpg",
+    "static/media/hootie-owl.jpg": "/static/media/hootie-owl.c9edd98534a68da3c6d3.jpg",
+    "static/media/billy-llama.jpg": "/static/media/billy-llama.7a73bcf717488bc46b1d.jpg",
+    "static/media/wolfie.jpg": "/static/media/wolfie.cb1ebb6f54a1ab79348a.jpg",
+    "static/media/arnette-armadillo.jpg": "/static/media/arnette-armadillo.b06f6d231cc8dcef060c.jpg",
+    "static/media/bad-bunny.jpg": "/static/media/bad-bunny.eb0933ab98f7df1b174a.jpg",
+    "static/media/barry-dropdown.jpg": "/static/media/barry-dropdown.3a907418fa75b1bbdc98.jpg",
+    "index.html": "/index.html",
+    "main.a45c3839.css.map": "/static/css/main.a45c3839.css.map",
+    "main.2e41d986.js.map": "/static/js/main.2e41d986.js.map",
+    "787.865ed617.chunk.js.map": "/static/js/787.865ed617.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a45c3839.css",
-    "static/js/main.6d294388.js"
+    "static/js/main.2e41d986.js"
   ]
 }
