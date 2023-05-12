@@ -2,10 +2,10 @@ import React from 'react'
 
 function ArtItem({ image, name, price}) {
   return (
-    <div className='menuItem'>
+    <div className='artItem'>
         <div style={{ backgroundImage: `url(${image})` }}></div>
         <h1> {name} </h1>
-        <p> {price} </p>
+        <p> ${price} </p>
     </div>
   );
 }

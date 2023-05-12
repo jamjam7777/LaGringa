@@ -1,5 +1,6 @@
 import React from "react";
 import { ArtList } from "../components/ArtList";
+import ArtItem  from '../components/ArtItem';
 import "../styles/Art.css";
 
 function Art() {
@@ -10,7 +11,7 @@ function Art() {
         {ArtList.map((artItem, key) => {
           return (
           
-            <artItem 
+            <ArtItem 
                     key={key}
                     image={artItem.image}
                     name={artItem.name}
