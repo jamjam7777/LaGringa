@@ -38,7 +38,7 @@
     border-radius: 5px;
     cursor: pointer;
     justify-content: center;
-    background-color: #121619;
+    background-color: rgb(80, 47, 47);
     height: 50px;
     width: 180px;
     color: white;
@@ -47,7 +47,7 @@
   }
   
   .headerContainer button:hover {
-    background-color: #07090a;
+    background-color: rgb(80, 47, 47);
     cursor: pointer;
     transition: 0.3s ease-in;
   }
@@ -85,12 +85,12 @@
   
     .headerContainer button {
       background-color: white;
-      color: #121619;
+      color: rgb(80, 47, 47);
       margin-bottom: 30px;
     }
   
     .headerContainer button:hover {
       background-color: rgb(225, 225, 225);
-      color: #121619;
+      color:rgb(80, 47, 47);
     }
   }

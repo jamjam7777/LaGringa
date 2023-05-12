@@ -3,6 +3,7 @@
     height: 90vh;
     display: flex;
     flex-direction: column;
+    background-color:  rgb(231, 230, 163);
   }
   
   .aboutTop {
@@ -23,15 +24,18 @@
   }
   
   .aboutBottom p {
-    width: 1200px;
+    width: 80%;
+    line-height: 1.5;
+    color: rgb(80, 47, 47);
   }
   
   .about .aboutBottom h1 {
     font-weight: 400;
-    font-size: 70px;
-    color: black;
+    font-size: 60px;
+    color: rgb(80, 47, 47);
     height: 30px;
     display: flex;
     justify-content: center;
     transform: translateY(-40px);
+   
   }
