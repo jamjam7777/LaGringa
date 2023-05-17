@@ -7,9 +7,15 @@ import '../styles/Footer.css';
 function Footer() {
     return <div className="footer">
         <div className="socialMedia">
-            <InstagramIcon />
-            <LinkedInIcon />
-            <GitHubIcon />
+            <InstagramIcon 
+            onClick={() => window.open('https://www.instagram.com/the.gringa.loca/')} 
+            />
+            <LinkedInIcon
+            onClick={() => window.open('https://www.linkedin.com/in/jamie-devine')} 
+            />
+            <GitHubIcon 
+             onClick={() => window.open('https://github.com/jamjam7777')} 
+            />
         </div>
         <p> &copy; 2023 LaGringaLoca</p>
     </div>;
