@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lagringa/static/css/main.2c1230fc.css",
-    "main.js": "/lagringa/static/js/main.05bec347.js",
+    "main.css": "/lagringa/static/css/main.f0acc2ff.css",
+    "main.js": "/lagringa/static/js/main.6c49f65f.js",
     "static/js/787.865ed617.chunk.js": "/lagringa/static/js/787.865ed617.chunk.js",
     "static/media/gringalogo.png": "/lagringa/static/media/gringalogo.e8986e525cebf7ce8419.png",
     "static/media/wolf-moonflowers.jpg": "/lagringa/static/media/wolf-moonflowers.092a6b909449298d91bd.jpg",
@@ -14,13 +14,14 @@
     "static/media/arnette-armadillo.jpg": "/lagringa/static/media/arnette-armadillo.b06f6d231cc8dcef060c.jpg",
     "static/media/bad-bunny.jpg": "/lagringa/static/media/bad-bunny.eb0933ab98f7df1b174a.jpg",
     "static/media/barry-dropdown.jpg": "/lagringa/static/media/barry-dropdown.3a907418fa75b1bbdc98.jpg",
+    "static/media/IMG_0076-COLLAGE.jpg": "/lagringa/static/media/IMG_0076-COLLAGE.2ce82358b9812d8b4bca.jpg",
     "index.html": "/lagringa/index.html",
-    "main.2c1230fc.css.map": "/lagringa/static/css/main.2c1230fc.css.map",
-    "main.05bec347.js.map": "/lagringa/static/js/main.05bec347.js.map",
+    "main.f0acc2ff.css.map": "/lagringa/static/css/main.f0acc2ff.css.map",
+    "main.6c49f65f.js.map": "/lagringa/static/js/main.6c49f65f.js.map",
     "787.865ed617.chunk.js.map": "/lagringa/static/js/787.865ed617.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c1230fc.css",
-    "static/js/main.05bec347.js"
+    "static/css/main.f0acc2ff.css",
+    "static/js/main.6c49f65f.js"
   ]
 }
