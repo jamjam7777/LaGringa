@@ -22,8 +22,8 @@
     align-items: center;
     font-size: 90px;
     height: 60px;
-    font-weight: 1;
-    color: black;
+    color: rgb(170, 149, 235);
+    text-shadow: 2px 2px 4px #000000;
     
   }
   
@@ -31,7 +31,8 @@
     padding: 0;
     font-size: 40px;
     font-weight: lighter;
-    color: black;
+    color: white;
+    text-shadow: 2px 2px 3px #000000;
   }
   
   .headerContainer button {
