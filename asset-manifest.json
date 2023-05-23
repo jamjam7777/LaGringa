@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lagringa/static/css/main.dbbc285c.css",
+    "main.css": "/lagringa/static/css/main.8ccbb32e.css",
     "main.js": "/lagringa/static/js/main.6c49f65f.js",
     "static/js/787.865ed617.chunk.js": "/lagringa/static/js/787.865ed617.chunk.js",
     "static/media/gringalogo.png": "/lagringa/static/media/gringalogo.e8986e525cebf7ce8419.png",
@@ -16,12 +16,12 @@
     "static/media/barry-dropdown.jpg": "/lagringa/static/media/barry-dropdown.3a907418fa75b1bbdc98.jpg",
     "static/media/IMG_0076-COLLAGE.jpg": "/lagringa/static/media/IMG_0076-COLLAGE.2ce82358b9812d8b4bca.jpg",
     "index.html": "/lagringa/index.html",
-    "main.dbbc285c.css.map": "/lagringa/static/css/main.dbbc285c.css.map",
+    "main.8ccbb32e.css.map": "/lagringa/static/css/main.8ccbb32e.css.map",
     "main.6c49f65f.js.map": "/lagringa/static/js/main.6c49f65f.js.map",
     "787.865ed617.chunk.js.map": "/lagringa/static/js/787.865ed617.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbbc285c.css",
+    "static/css/main.8ccbb32e.css",
     "static/js/main.6c49f65f.js"
   ]
 }
