@@ -30,8 +30,7 @@
   .headerContainer p {
     padding: 0;
     font-size: 40px;
-    font-weight: lighter;
-    color: white;
+    color: rgb(248, 108, 8);
     text-shadow: 2px 2px 3px #000000;
   }
   
