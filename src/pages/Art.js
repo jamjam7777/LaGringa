@@ -10,13 +10,14 @@ function Art() {
       <div className="menuList">
         {ArtList.map((artItem, key) => {
           return (
-          
+            
             <ArtItem 
                     key={key}
                     image={artItem.image}
                     name={artItem.name}
                     price={artItem.price}
                 />
+                
           );
         })}
       </div>
