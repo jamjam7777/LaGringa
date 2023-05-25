@@ -10,11 +10,10 @@ function Art() {
     <div className="art">
       <h1 className="menuTitle">Art for Sale</h1>
       <div className="menuList">
-        {ArtList.map((artItem, i) => {
+        {ArtList.map((artItem, detailart) => {
           return (
-            <Link to='/art/:detailart'>
-            <ArtItem 
-                    key={i}
+            <Link to={'/art/:detailart'} style={{ textDecoration: 'none' }}>
+            <ArtItem key={detailart}
                     image={artItem.image}
                     name={artItem.name}
                     price={artItem.price}
