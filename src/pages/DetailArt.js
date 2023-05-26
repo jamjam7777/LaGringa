@@ -5,28 +5,33 @@ import '../styles/Contact.css';
 import { Card } from "@mui/material";
 import { useParams } from "react-router-dom";
 
+export default function Art(props) {
+  return <h1>{props.match.params.detailart}</h1>
+}
 
-function DetailArt() {
 
-  const  detailart  = useParams();
 
-    return (
+// function DetailArt() {
+
+//   const  detailart  = useParams();
+
+//     return (
      
-      <div className='contact'>
-          <div className='leftSide'
-              style={{ backgroundImage: `url(${detailart})` }}
-          ></div>
-          <div className='rightSide'>
-              <h1> {`artItem.name`} </h1>
-              <Card id="contact-form">
-            <button type="submit"> Send Message</button>
-          </Card>
-          </div>
-      </div>
-    )
-  }
+//       <div className='contact'>
+//           <div className='leftSide'
+//               style={{ backgroundImage: `url(${detailart})` }}
+//           ></div>
+//           <div className='rightSide'>
+//               <h1> {`artItem.name`} </h1>
+//               <Card id="contact-form">
+//             <button type="submit"> Send Message</button>
+//           </Card>
+//           </div>
+//       </div>
+//     )
+//   }
   
   
 
 
-export default DetailArt;
+// export default DetailArt;

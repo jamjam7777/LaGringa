@@ -1,11 +1,12 @@
+import React, {Component} from "react";
 import { ArtList } from "../components/ArtList";
 import ArtItem  from '../components/ArtItem';
 import "../styles/Art.css";
 import { Link } from "react-router-dom";
 
 
-function Art() {
-
+export default class Art extends Component {
+render() {
   return (
     <div className="art">
       <h1 className="menuTitle">Art for Sale</h1>
@@ -26,4 +27,4 @@ function Art() {
   );
 }
 
-export default Art;
+}
